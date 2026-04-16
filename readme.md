@@ -1,4 +1,4 @@
 # Project related to js
 
 ## Project link
-[Click here](https://youtu.be/_TjtAyMkiTI?si=8ES0iLxKluSoNevF)
+[Click here](https://yuvraj-sharma76.github.io/Color-changer/)
